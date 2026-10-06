@@ -56,7 +56,7 @@ Notebook berisi proses:
 
 ## Presentation
 
-**Capstone 2 Presentation:** [Open Presentation](./presentation/Sinarmas_Land_Capstone_2.pptx)
+**Capstone 2 Presentation:** [Open Presentation](./presentation/Capstone Project 2_SinarMas Land Data Analysis Report.pptx)
 
 ## Project Presentation Video
 

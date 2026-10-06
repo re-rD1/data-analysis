@@ -28,8 +28,8 @@ Analisis data billing dan property management untuk mengidentifikasi risiko tung
 | Missing Contact Number | 5,000 |
 | Paid Before Handover | 6,291 |
 | Water Usage Issues | 3,000 |
-| Chronic Arrears Streaks (>6 months) | 1 |
-| Chronic Arrears Outstanding | Rp4.45 juta |
+| Chronic Arrears Streaks (>6 months) | 6 |
+| Chronic Arrears Outstanding | Rp117.88 juta |
 
 ## Dashboard
 
@@ -52,11 +52,11 @@ Notebook berisi proses:
 - Business Insights
 - Conclusion & Recommendation
 
-**Notebook:** [Open Analysis Notebook](./notebook/Sinarmas_Land_Data_Analysis.ipynb)
+**Notebook:** [Open Analysis Notebook](./notebook/Sinarmas_Land_Data_Analysis_by_Rayhan_Akmal.ipynb)
 
 ## Presentation
 
-**Capstone 2 Presentation:** [Open Presentation](./presentation/Sinarmas_Land_Capstone_2.pdf)
+**Capstone 2 Presentation:** [Open Presentation](./presentation/Sinarmas_Land_Capstone_2.pptx)
 
 ## Project Presentation Video
 

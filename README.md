@@ -37,20 +37,15 @@ Analisis data billing dan property management untuk mengidentifikasi risiko tung
 
 Dashboard dirancang menjadi tiga halaman agar proses analisis mengikuti alur bisnis: **What is happening? → Where is the risk? → What needs fixing?**
 
-## Dashboard Preview
+## Dashboard
 
-Ketiga screenshot berikut menampilkan tampilan aktual dashboard dari Looker Studio.
+**Interactive Dashboard:** [Open Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/fd29a56f-cb8b-4e0f-8afa-0c4a405d68a9/page/4vUAG)
+
+Dashboard dirancang menjadi tiga halaman agar proses analisis mengikuti alur bisnis: **What is happening? → Where is the risk? → What needs fixing?**
 
 ### Page 1 — Executive Overview
+
 ![Dashboard Page 1](./dashboard/Screenshot%20Dashboard%20P1.png)
-
-### Page 2 — Collection & Arrears
-![Dashboard Page 2](./dashboard/Screenshot%20Dashboard%20P2.png)
-
-### Page 3 — Data Quality & System Control
-![Dashboard Page 3](./dashboard/Screenshot%20Dashboard%20P3.png)
-
-### Page 1 — Executive Overview
 
 **Pertanyaan utama:** *What is happening?*
 
@@ -83,6 +78,8 @@ Digunakan untuk melihat komposisi invoice berdasarkan status pembayaran sehingga
 
 ### Page 2 — Collection & Arrears
 
+![Dashboard Page 2](./dashboard/Screenshot%20Dashboard%20P2.png)
+
 **Pertanyaan utama:** *Where is the risk?*
 
 Halaman ini berfokus pada identifikasi area dan karakteristik unit yang memiliki risiko tunggakan lebih tinggi sehingga collection dapat diprioritaskan.
@@ -112,6 +109,8 @@ Digunakan untuk melakukan drill-down dari tingkat township ke tingkat cluster da
 **Business purpose:** Page 2 membantu tim Collection dan Estate Management menjawab **di mana risiko tunggakan paling tinggi dan segmen unit mana yang perlu diprioritaskan**.
 
 ### Page 3 — Data Quality & System Control
+
+![Dashboard Page 3](./dashboard/Screenshot%20Dashboard%20P3.png)
 
 **Pertanyaan utama:** *What needs fixing?*
 

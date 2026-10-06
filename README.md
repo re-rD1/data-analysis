@@ -23,9 +23,9 @@ Menganalisis data billing dan property management untuk mengidentifikasi peluang
 
 | Dataset | Records | Purpose |
 |---|---:|---|
-| Clusters | 100 | Township and cluster information |
-| Units | 25,000 | Property and occupancy information |
-| IPL Billings | 300,000 | Monthly billing and payment information |
+| [sml_clusters.csv](./data/sml_clusters.csv) | 100 | Township and cluster information |
+| [sml_units.csv](./data/sml_units.csv) | 25,000 | Property and occupancy information |
+| [sml_ipl_billings.csv](./data/sml_ipl_billings.csv) | 300,000 | Monthly billing and payment information |
 
 ## Key Findings
 
@@ -223,6 +223,10 @@ Notebook berisi proses:
 ```
 data-analysis/
 ├── README.md
+├── data/
+│   ├── sml_clusters.csv
+│   ├── sml_units.csv
+│   └── sml_ipl_billings.csv
 ├── notebook/
 │   └── Sinarmas_Land_Data_Analysis_by_Rayhan_Akmal.ipynb
 ├── presentation/

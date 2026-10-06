@@ -37,6 +37,19 @@ Analisis data billing dan property management untuk mengidentifikasi risiko tung
 
 Dashboard dirancang menjadi tiga halaman agar proses analisis mengikuti alur bisnis: **What is happening? → Where is the risk? → What needs fixing?**
 
+## Dashboard Preview
+
+Ketiga screenshot berikut menampilkan tampilan aktual dashboard dari Looker Studio.
+
+### Page 1 — Executive Overview
+![Dashboard Page 1](./dashboard/Screenshot%20Dashboard%20P1.png)
+
+### Page 2 — Collection & Arrears
+![Dashboard Page 2](./dashboard/Screenshot%20Dashboard%20P2.png)
+
+### Page 3 — Data Quality & System Control
+![Dashboard Page 3](./dashboard/Screenshot%20Dashboard%20P3.png)
+
 ### Page 1 — Executive Overview
 
 **Pertanyaan utama:** *What is happening?*
@@ -181,7 +194,9 @@ data-analysis/
 ├── presentation/
 │   └── Capstone Project 2_SinarMas Land Data Analysis Report.pptx
 └── dashboard/
-    └── .gitkeep
+    ├── Screenshot Dashboard P1.png
+    ├── Screenshot Dashboard P2.png
+    └── Screenshot Dashboard P3.png
 ```
 
 ## Data Privacy Notice

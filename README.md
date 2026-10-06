@@ -56,7 +56,7 @@ Notebook berisi proses:
 
 ## Presentation
 
-**Capstone 2 Presentation:** [Open Presentation](./presentation/Capstone Project 2_SinarMas Land Data Analysis Report.pptx)
+**Capstone 2 Presentation:** [Download / Open PPT](https://github.com/re-rD1/data-analysis/raw/refs/heads/main/presentation/Capstone%20Project%202_SinarMas%20Land%20Data%20Analysis%20Report.pptx)
 
 ## Project Presentation Video
 

@@ -33,7 +33,7 @@ Analisis data billing dan property management untuk mengidentifikasi risiko tung
 
 ## Dashboard
 
-**Interactive Dashboard:** [Open Looker Studio Dashboard](PASTE_LOOKER_STUDIO_LINK_HERE)
+**Interactive Dashboard:** [Open Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/fd29a56f-cb8b-4e0f-8afa-0c4a405d68a9/page/4vUAG)
 
 Dashboard mencakup:
 - Executive Overview
@@ -60,7 +60,7 @@ Notebook berisi proses:
 
 ## Project Presentation Video
 
-**YouTube:** [Watch Project Presentation](PASTE_YOUTUBE_LINK_HERE)
+**YouTube:** [Watch Project Presentation](https://youtu.be/QVrFmHQE0Ns)
 
 ## Tools & Technologies
 

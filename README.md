@@ -139,6 +139,22 @@ Ketiga halaman disusun sebagai alur analisis:
 
 Dengan alur ini, dashboard tidak hanya menampilkan angka, tetapi menghubungkan **insight → prioritas bisnis → tindakan operasional**.
 
+## Dashboard Preview
+
+The dashboard is organized into three pages, each serving a different business question:
+
+### Page 1 — Executive Overview
+
+![Page 1 — Executive Overview](./dashboard/page_1_executive_overview.svg)
+
+### Page 2 — Collection & Arrears
+
+![Page 2 — Collection & Arrears](./dashboard/page_2_collection_arrears.svg)
+
+### Page 3 — Data Quality & System Control
+
+![Page 3 — Data Quality & System Control](./dashboard/page_3_data_quality.svg)
+
 ## Data Analysis Notebook
 
 Notebook berisi proses:
@@ -176,14 +192,14 @@ Notebook berisi proses:
 ```
 data-analysis/
 ├── README.md
-├── presentation/
-│   └── Capstone Project 2_SinarMas Land Data Analysis Report.pptx
 ├── notebook/
 │   └── Sinarmas_Land_Data_Analysis_by_Rayhan_Akmal.ipynb
-├── dashboard/
-│   └── dashboard_preview.png
-└── assets/
-    └── screenshots/
+├── presentation/
+│   └── Capstone Project 2_SinarMas Land Data Analysis Report.pptx
+└── dashboard/
+    ├── page_1_executive_overview.svg
+    ├── page_2_collection_arrears.svg
+    └── page_3_data_quality.svg
 ```
 
 ## Data Privacy Notice

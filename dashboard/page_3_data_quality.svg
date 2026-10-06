@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#f7f8fa"/>
+<text x="45" y="55" font-family="Arial" font-size="28" font-weight="700" fill="#163a5f">03 — Data Quality &amp; System Control</text>
+<text x="45" y="92" font-family="Arial" font-size="19" fill="#333">What needs fixing?</text>
+<g font-family="Arial">
+<text x="515" y="38" font-size="16" font-weight="700" fill="#f59e0b">Missing Payment Method</text><text x="515" y="74" font-size="25" fill="#f59e0b">90.278</text>
+<text x="745" y="38" font-size="16" font-weight="700" fill="#f59e0b">Missing Contact Number</text><text x="745" y="74" font-size="25" fill="#f59e0b">5.000</text>
+<text x="965" y="38" font-size="16" font-weight="700" fill="#d64545">Water Usage Issue</text><text x="965" y="74" font-size="25" fill="#d64545">3.000</text>
+</g>
+<rect x="35" y="120" width="620" height="225" rx="8" fill="white" stroke="#e5e7eb"/>
+<text x="205" y="148" font-family="Arial" font-size="19" font-weight="700" fill="#163a5f">Payment Method Distribution</text>
+<line x1="70" y1="315" x2="620" y2="315" stroke="#bbb"/>
+<g fill="#3b82f6"><rect x="100" y="150" width="70" height="165" fill="#f59e0b"/><rect x="210" y="190" width="70" height="125"/><rect x="320" y="232" width="70" height="83"/><rect x="430" y="234" width="70" height="81"/><rect x="540" y="236" width="70" height="79"/></g>
+<g font-family="Arial" font-size="12" fill="#444" text-anchor="middle"><text x="135" y="335">Missing</text><text x="245" y="335">BCA Virtual</text><text x="355" y="335">Cash</text><text x="465" y="335">Tokopedia</text><text x="575" y="335">Credit Card</text></g>
+<rect x="690" y="120" width="475" height="225" rx="8" fill="white" stroke="#e5e7eb"/>
+<text x="865" y="148" font-family="Arial" font-size="19" font-weight="700" fill="#163a5f" text-anchor="middle">Contact Status</text>
+<path d="M928 235 A75 75 0 1 1 794 190" fill="#2e8b57"/><path d="M928 235 A75 75 0 0 1 794 280 L928 235" fill="#f59e0b"/>
+<text x="865" y="225" font-family="Arial" font-size="20" font-weight="700" text-anchor="middle">80%</text><text x="1030" y="225" font-family="Arial" font-size="13" fill="#444">Available</text><text x="1030" y="250" font-family="Arial" font-size="13" fill="#444">Missing</text>
+<rect x="35" y="370" width="1130" height="210" rx="8" fill="white" stroke="#e5e7eb"/>
+<text x="440" y="398" font-family="Arial" font-size="19" font-weight="700" fill="#163a5f">Water Usage Anomalies</text>
+<text x="65" y="458" font-family="Arial" font-size="14" fill="#444">Negative Usage</text><rect x="210" y="438" width="850" height="28" fill="#d64545"/><text x="1075" y="458" font-family="Arial" font-size="13" font-weight="700" fill="#fff">1.519</text>
+<text x="65" y="518" font-family="Arial" font-size="14" fill="#444">IQR Outlier</text><rect x="210" y="498" width="825" height="28" fill="#f59e0b"/><text x="1050" y="518" font-family="Arial" font-size="13" font-weight="700" fill="#fff">1.481</text>
+</svg>

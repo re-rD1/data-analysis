@@ -196,7 +196,7 @@ Notebook berisi proses:
 
 ## Project Presentation Video
 
-**YouTube:** [Watch Project Presentation](https://youtu.be/QVrFmHQE0Ns)
+**YouTube:** [Watch Project Presentation](https://youtu.be/vl8E55FzJhk)
 
 ## Skills Demonstrated
 

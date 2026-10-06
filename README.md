@@ -168,7 +168,6 @@ Notebook berisi proses:
 - NumPy
 - Matplotlib
 - Seaborn
-- SQL
 - Looker Studio
 - Jupyter Notebook
 

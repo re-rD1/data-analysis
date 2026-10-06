@@ -6,6 +6,10 @@ Capstone 2 — Data Analysis Portfolio Project
 
 Analisis data billing dan property management untuk mengidentifikasi risiko tunggakan, peluang revenue recovery, serta masalah kualitas data pada proses billing.
 
+## Project Objective
+
+Menganalisis data billing dan property management untuk mengidentifikasi peluang revenue recovery, area dengan risiko tunggakan tinggi, serta masalah kualitas data yang dapat menghambat proses collection dan billing.
+
 ## Business Questions
 
 1. Township atau cluster mana yang memiliki arrears rate tertinggi?
@@ -14,6 +18,14 @@ Analisis data billing dan property management untuk mengidentifikasi risiko tung
 4. Apakah terdapat tunggakan kronis lebih dari 6 bulan berturut-turut?
 5. Seberapa besar masalah missing payment method dan contact number?
 6. Apakah terdapat anomali pada payment date dan water usage?
+
+## Data Sources
+
+| Dataset | Records | Purpose |
+|---|---:|---|
+| Clusters | 100 | Township and cluster information |
+| Units | 25,000 | Property and occupancy information |
+| IPL Billings | 300,000 | Monthly billing and payment information |
 
 ## Key Findings
 
@@ -31,11 +43,24 @@ Analisis data billing dan property management untuk mengidentifikasi risiko tung
 | Chronic Arrears Streaks (>6 months) | 6 |
 | Chronic Arrears Outstanding | Rp117.88 juta |
 
-## Dashboard
+## Business Impact
 
-**Interactive Dashboard:** [Open Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/fd29a56f-cb8b-4e0f-8afa-0c4a405d68a9/page/4vUAG)
+The analysis highlights three key opportunities:
 
-Dashboard dirancang menjadi tiga halaman agar proses analisis mengikuti alur bisnis: **What is happening? → Where is the risk? → What needs fixing?**
+- **Revenue Recovery:** Rp117.26 billion in outstanding invoices indicates a significant collection opportunity. Collection can be prioritized using outstanding value, arrears risk, occupancy status, and location.
+- **Data Quality Improvement:** 90,278 invoices have missing payment methods and 5,000 owner records have missing contact numbers, which can reduce operational readiness.
+- **System Control:** 6,291 paid invoices occurred before the recorded handover date, while 3,000 water usage records were flagged as anomalous, indicating the need for stronger validation rules.
+
+## Recommendations
+
+### 1. Recover
+Prioritize collection based on outstanding value, aging, occupancy status, and location.
+
+### 2. Clean
+Standardize payment method entries and improve the completeness of owner contact information.
+
+### 3. Control
+Implement validation rules for impossible payment dates and extreme water usage before records are used for billing or reporting.
 
 ## Dashboard
 
@@ -172,6 +197,16 @@ Notebook berisi proses:
 ## Project Presentation Video
 
 **YouTube:** [Watch Project Presentation](https://youtu.be/QVrFmHQE0Ns)
+
+## Skills Demonstrated
+
+- Data Cleaning & Data Validation
+- Exploratory Data Analysis
+- Aggregation & Business Metrics
+- Statistical Analysis (Chi-square & Cramer's V)
+- Outlier Detection using IQR
+- Dashboard Development
+- Business Insight & Recommendation
 
 ## Tools & Technologies
 
